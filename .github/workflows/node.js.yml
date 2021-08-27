@@ -24,5 +24,5 @@ jobs:
       run: |
           git config user.name 'fiqryq'
           git config user.email 'fiqrychoerudin@student.telkomuniversity.ac.id'
-          git commit -am "bot: update README.md automatically"
+          git commit -am "🙊 heywooo."
           git push
