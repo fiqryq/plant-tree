@@ -23,6 +23,6 @@ jobs:
     - name: Commit change & Push
       run: |
           git config user.name 'fiqryq'
-          git config user.email 'fiqrychoerudin@student.telkomuniversity.ac.id'
+          git config user.email 'fiqrychoerudin48@gmail.com'
           git commit -am "plant some tree 🌳"
           git push
